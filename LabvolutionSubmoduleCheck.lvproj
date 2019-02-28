@@ -23,6 +23,7 @@
 			<Item Name="LabvolutionSubmoduleCheck_Provider_Interface.vi" Type="VI" URL="../LabvolutionSubmoduleCheck/LabvolutionSubmoduleCheck_Provider_Interface.vi"/>
 			<Item Name="LabvolutionSubmoduleCheck_Provider_LoadComplete.vi" Type="VI" URL="../LabvolutionSubmoduleCheck/LabvolutionSubmoduleCheck_Provider_LoadComplete.vi"/>
 		</Item>
+		<Item Name="Submodule Check.vipb" Type="Document" URL="../Submodule Check.vipb"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="System Exec.vi" Type="VI" URL="/&lt;vilib&gt;/Platform/system.llb/System Exec.vi"/>
