@@ -25,9 +25,9 @@
 			<Item Name="LabvolutionSubmoduleCheck_Provider_LoadComplete.vi" Type="VI" URL="../LabvolutionSubmoduleCheck/LabvolutionSubmoduleCheck_Provider_LoadComplete.vi"/>
 			<Item Name="LabvolutionSubmoduleCheck_StandardErrorCallback.vi" Type="VI" URL="../LabvolutionSubmoduleCheck/LabvolutionSubmoduleCheck_StandardErrorCallback.vi"/>
 			<Item Name="LabvolutionSubmoduleCheck_StandardOutputCallback.vi" Type="VI" URL="../LabvolutionSubmoduleCheck/LabvolutionSubmoduleCheck_StandardOutputCallback.vi"/>
+			<Item Name="SystemExec.dll" Type="Document" URL="../LabvolutionSubmoduleCheck/SystemExec.dll"/>
 		</Item>
 		<Item Name="Submodule Check.vipb" Type="Document" URL="../Submodule Check.vipb"/>
-		<Item Name="SystemExec.dll" Type="Document" URL="../SystemExec.dll"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="System Exec.vi" Type="VI" URL="/&lt;vilib&gt;/Platform/system.llb/System Exec.vi"/>

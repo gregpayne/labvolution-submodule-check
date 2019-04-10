@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2018" Created_Date="2019-02-28 12:56:28" Modified_Date="2019-04-01 15:36:27" Creator="GregPayne" Comments="" ID="d186e3dedea25965854b08b02be92f8e">
+<VI_Package_Builder_Settings Version="2018" Created_Date="2019-02-28 12:56:28" Modified_Date="2019-04-10 09:37:05" Creator="GregPayne" Comments="" ID="9bfc91f7e7514288d3ad1f553b71b2da">
   <Library_General_Settings>
     <Package_File_Name>Labvolution_lib_Submodule_Check</Package_File_Name>
-    <Library_Version>1.3.0.18</Library_Version>
+    <Library_Version>1.3.0.25</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>builds</Library_Output_Folder>
@@ -113,12 +113,6 @@
         <Additional_Destination>false</Additional_Destination>
         <Additional_Destination_Index>0</Additional_Destination_Index>
       </Destination_Overrides>
-      <Destination_Overrides>
-        <Path>SystemExec.dll</Path>
-        <Destination>10</Destination>
-        <Additional_Destination>false</Additional_Destination>
-        <Additional_Destination_Index>0</Additional_Destination_Index>
-      </Destination_Overrides>
       <Password_Overrides>
         <Path>.</Path>
         <Password/>
@@ -137,6 +131,9 @@
       </Exclusions>
       <Exclusions>
         <Path>.gitignore</Path>
+      </Exclusions>
+      <Exclusions>
+        <Path>builds</Path>
       </Exclusions>
     </Source_Files>
     <License_Agreement_Filepath/>
