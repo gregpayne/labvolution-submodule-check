@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2018" Created_Date="2019-02-28 12:56:28" Modified_Date="2019-03-07 08:26:40" Creator="GregPayne" Comments="" ID="12198404e6ad8d8de7e52ac35b80bda9">
+<VI_Package_Builder_Settings Version="2018" Created_Date="2019-02-28 12:56:28" Modified_Date="2019-04-10 12:37:41" Creator="GregPayne" Comments="" ID="05a98f1d4673bbaa42889bc935ca7dd9">
   <Library_General_Settings>
     <Package_File_Name>Labvolution_lib_Submodule_Check</Package_File_Name>
-    <Library_Version>1.2.0.9</Library_Version>
+    <Library_Version>1.4.0.30</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>builds</Library_Output_Folder>
@@ -131,6 +131,9 @@
       </Exclusions>
       <Exclusions>
         <Path>.gitignore</Path>
+      </Exclusions>
+      <Exclusions>
+        <Path>builds</Path>
       </Exclusions>
     </Source_Files>
     <License_Agreement_Filepath/>
