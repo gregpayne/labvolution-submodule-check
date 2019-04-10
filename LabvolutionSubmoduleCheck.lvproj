@@ -15,9 +15,11 @@
 			<Item Name="LabvolutionSubmoduleCheck.ini" Type="Document" URL="../GProviders/LabvolutionSubmoduleCheck.ini"/>
 		</Item>
 		<Item Name="LabvolutionSubmoduleCheck" Type="Folder">
+			<Item Name="async-system-exec.lvlib" Type="Library" URL="../LabvolutionSubmoduleCheck/async-system-exec/async-system-exec.lvlib"/>
 			<Item Name="LabvolutionSubmoduleCheck_DisplaySubmoduleInfo.vi" Type="VI" URL="../LabvolutionSubmoduleCheck/LabvolutionSubmoduleCheck_DisplaySubmoduleInfo.vi"/>
 			<Item Name="LabvolutionSubmoduleCheck_Global_Init.vi" Type="VI" URL="../LabvolutionSubmoduleCheck/LabvolutionSubmoduleCheck_Global_Init.vi"/>
 			<Item Name="LabvolutionSubmoduleCheck_Global_Interface.vi" Type="VI" URL="../LabvolutionSubmoduleCheck/LabvolutionSubmoduleCheck_Global_Interface.vi"/>
+			<Item Name="LabvolutionSubmoduleCheck_HasSubmodules.vi" Type="VI" URL="../LabvolutionSubmoduleCheck/LabvolutionSubmoduleCheck_HasSubmodules.vi"/>
 			<Item Name="LabvolutionSubmoduleCheck_Item_Init.vi" Type="VI" URL="../LabvolutionSubmoduleCheck/LabvolutionSubmoduleCheck_Item_Init.vi"/>
 			<Item Name="LabvolutionSubmoduleCheck_Item_Interface.vi" Type="VI" URL="../LabvolutionSubmoduleCheck/LabvolutionSubmoduleCheck_Item_Interface.vi"/>
 			<Item Name="LabvolutionSubmoduleCheck_Provider_Interface.vi" Type="VI" URL="../LabvolutionSubmoduleCheck/LabvolutionSubmoduleCheck_Provider_Interface.vi"/>
@@ -26,12 +28,20 @@
 		<Item Name="Submodule Check.vipb" Type="Document" URL="../Submodule Check.vipb"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
-				<Item Name="System Exec.vi" Type="VI" URL="/&lt;vilib&gt;/Platform/system.llb/System Exec.vi"/>
+				<Item Name="Clear Errors.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Clear Errors.vi"/>
+				<Item Name="Trim Whitespace.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Trim Whitespace.vi"/>
+				<Item Name="whitespace.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/whitespace.ctl"/>
 			</Item>
 			<Item Name="Global_Interface.ctl" Type="VI" URL="/&lt;resource&gt;/Framework/Providers/API/Global_Interface.ctl"/>
 			<Item Name="Item_Interface.ctl" Type="VI" URL="/&lt;resource&gt;/Framework/Providers/API/Item_Interface.ctl"/>
 			<Item Name="ItemRef.ctl" Type="VI" URL="/&lt;resource&gt;/Framework/Providers/API/ItemRef.ctl"/>
+			<Item Name="mscorlib" Type="VI" URL="mscorlib">
+				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
+			</Item>
 			<Item Name="Provider_Interface.ctl" Type="VI" URL="/&lt;resource&gt;/Framework/Providers/API/Provider_Interface.ctl"/>
+			<Item Name="System" Type="VI" URL="System">
+				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
+			</Item>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
