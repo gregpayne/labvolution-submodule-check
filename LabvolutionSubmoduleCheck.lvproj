@@ -25,6 +25,7 @@
 			<Item Name="LabvolutionSubmoduleCheck_Item_Interface.vi" Type="VI" URL="../LabvolutionSubmoduleCheck/LabvolutionSubmoduleCheck_Item_Interface.vi"/>
 			<Item Name="LabvolutionSubmoduleCheck_Provider_Interface.vi" Type="VI" URL="../LabvolutionSubmoduleCheck/LabvolutionSubmoduleCheck_Provider_Interface.vi"/>
 			<Item Name="LabvolutionSubmoduleCheck_Provider_LoadComplete.vi" Type="VI" URL="../LabvolutionSubmoduleCheck/LabvolutionSubmoduleCheck_Provider_LoadComplete.vi"/>
+			<Item Name="LabvolutionSubmoduleCheck_Provider_Shutdown.vi" Type="VI" URL="../LabvolutionSubmoduleCheck/LabvolutionSubmoduleCheck_Provider_Shutdown.vi"/>
 		</Item>
 		<Item Name="Submodule Check.vipb" Type="Document" URL="../Submodule Check.vipb"/>
 		<Item Name="Dependencies" Type="Dependencies">
