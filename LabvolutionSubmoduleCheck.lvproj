@@ -20,6 +20,7 @@
 			<Item Name="LabvolutionSubmoduleCheck_Create_Delete_File.vi" Type="VI" URL="../LabvolutionSubmoduleCheck/LabvolutionSubmoduleCheck_Create_Delete_File.vi"/>
 			<Item Name="LabvolutionSubmoduleCheck_DisplaySubmoduleInfo.vi" Type="VI" URL="../LabvolutionSubmoduleCheck/LabvolutionSubmoduleCheck_DisplaySubmoduleInfo.vi"/>
 			<Item Name="LabvolutionSubmoduleCheck_File_Action..enum.ctl" Type="VI" URL="../LabvolutionSubmoduleCheck/LabvolutionSubmoduleCheck_File_Action..enum.ctl"/>
+			<Item Name="LabvolutionSubmoduleCheck_FindFolders.vi" Type="VI" URL="../LabvolutionSubmoduleCheck/LabvolutionSubmoduleCheck_FindFolders.vi"/>
 			<Item Name="LabvolutionSubmoduleCheck_GitCommit.vi" Type="VI" URL="../LabvolutionSubmoduleCheck/LabvolutionSubmoduleCheck_GitCommit.vi"/>
 			<Item Name="LabvolutionSubmoduleCheck_GitReset.vi" Type="VI" URL="../LabvolutionSubmoduleCheck/LabvolutionSubmoduleCheck_GitReset.vi"/>
 			<Item Name="LabvolutionSubmoduleCheck_GitSubmoduleAdd.vi" Type="VI" URL="../LabvolutionSubmoduleCheck/LabvolutionSubmoduleCheck_GitSubmoduleAdd.vi"/>
