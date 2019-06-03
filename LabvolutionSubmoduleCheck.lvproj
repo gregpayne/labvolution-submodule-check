@@ -15,7 +15,7 @@
 			<Item Name="LabvolutionSubmoduleCheck.ini" Type="Document" URL="../GProviders/LabvolutionSubmoduleCheck.ini"/>
 		</Item>
 		<Item Name="LabvolutionSubmoduleCheck" Type="Folder">
-			<Item Name="async-system-exec.lvlib" Type="Library" URL="../LabvolutionSubmoduleCheck/async-system-exec/async-system-exec.lvlib"/>
+			<Item Name="callback-system-exec.lvlib" Type="Library" URL="../LabvolutionSubmoduleCheck/callback-system-exec/callback-system-exec/callback-system-exec.lvlib"/>
 			<Item Name="LabvolutionSubmoduleCheck_AddSubmoduleDialog.vi" Type="VI" URL="../LabvolutionSubmoduleCheck/LabvolutionSubmoduleCheck_AddSubmoduleDialog.vi"/>
 			<Item Name="LabvolutionSubmoduleCheck_Create_Delete_File.vi" Type="VI" URL="../LabvolutionSubmoduleCheck/LabvolutionSubmoduleCheck_Create_Delete_File.vi"/>
 			<Item Name="LabvolutionSubmoduleCheck_DisplaySubmoduleInfo.vi" Type="VI" URL="../LabvolutionSubmoduleCheck/LabvolutionSubmoduleCheck_DisplaySubmoduleInfo.vi"/>
