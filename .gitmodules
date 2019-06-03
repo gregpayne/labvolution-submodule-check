@@ -1,0 +1,3 @@
+[submodule "LabvolutionSubmoduleCheck/callback-system-exec"]
+	path = LabvolutionSubmoduleCheck/callback-system-exec
+	url = git@bitbucket.org:Labvolution/callback-system-exec.git
