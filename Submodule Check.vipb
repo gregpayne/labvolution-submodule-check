@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2018" Created_Date="2019-02-28 12:56:28" Modified_Date="2019-04-18 13:01:12" Creator="GregPayne" Comments="" ID="84e94d2b7086ae3da42f34236a210ab3">
+<VI_Package_Builder_Settings Version="2018" Created_Date="2019-02-28 12:56:28" Modified_Date="2019-06-03 11:56:13" Creator="GregPayne" Comments="" ID="526d6ec9fbe80b3fd7e4eb5b811c63f0">
   <Library_General_Settings>
     <Package_File_Name>Labvolution_lib_Submodule_Check</Package_File_Name>
-    <Library_Version>1.5.0.43</Library_Version>
+    <Library_Version>1.6.0.45</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>builds</Library_Output_Folder>
@@ -28,7 +28,7 @@
     <VI_Package_Configuration_File>Submodule Check.vipc</VI_Package_Configuration_File>
     <Description>
       <One_Line_Description_Summary/>
-      <Description/>
+      <Description>Project Provider application which manages git submodules within a project</Description>
       <Copyright/>
       <Packager/>
       <URL/>
